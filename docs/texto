@@ -1,18 +1,6 @@
 # Dillinger
 ## _The Last Markdown Editor, Ever_
 
-1. pruebas
-2. pruebas2
-3. pruebas3
-
-- lista 1
-- lista 2
-- lista 3
-
-> cita nueva
-de una prueba
-> citamos de nuevo
-
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
